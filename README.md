@@ -1,0 +1,2 @@
+# IMPLEMENTATION-OF-OPINION-MINING-AND-EDA-ON-SALES-PREDICTION-USING-WEBSCRAPING
+In this project, the sales of laptops are predicted, for this the input data set is obtained from the flip kart e-commerce website by implementing Web scraping. After Organizing the data, EDA is performed on the data set. By which we can determine which of the input factor is playing a crucial role in predicting the sales.  
